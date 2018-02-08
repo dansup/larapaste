@@ -18,6 +18,7 @@
         "lodash": "^4.17.4",
         "popper.js": "^1.12",
         "tweetnacl": "^1.0.0",
+        "tweetnacl-util": "^0.15.0",
         "vue": "^2.5.7"
     }
 }

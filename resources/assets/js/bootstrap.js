@@ -13,6 +13,8 @@ try {
 
     require('bootstrap');
     window.nacl = require('tweetnacl');
+    require('./enpaco');
+    nacl.util = require('tweetnacl-util');
 } catch (e) {}
 
 /**
